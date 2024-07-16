@@ -26,7 +26,7 @@ Hello! I'm Noushin, a Data Scientist specializing in medical imaging, based in L
 - Developed SQL pipelines for big data analysis, improving processing speeds by 60%.
 - Applied advanced ML algorithms for research on biomechanics signal features.
 
-### Teaching Assistant at Imam Khomeini International University (Jan - Jun 2017)
+### Teaching Assistant at IKIU University (Jan - Jun 2017)
 - Conducted hands-on tutorials on filter design and classical image processing.
 
 ## 🎓 Education
