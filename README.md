@@ -1,6 +1,5 @@
 # Noushin Ahmadvand
 
-![Header Image](https://github.com/noushin94/-Noushin-noushin94/raw/708ce1dffbe654b5202cb46c80b19acccaebe958/header.jpg)
 
 Hello! I'm Noushin, a Data Scientist specializing in medical imaging, based in London, UK. With a Master's in Artificial Intelligence and a Bachelor's in Electrical Engineering, I am deeply passionate about leveraging advanced machine learning techniques and data analytics to solve real-world problems in healthcare and beyond.
 
