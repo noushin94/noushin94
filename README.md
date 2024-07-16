@@ -1,50 +1,54 @@
-<h1 align="center">Hi 👋, I'm Noushin Ahmadvand</h1>
-<h3 align="center">A Data Scientist specializing in medical imaging, based in London, UK. With a Master's in Artificial Intelligence and a Bachelor's in Electrical Engineering, I am deeply passionate about leveraging advanced machine learning techniques and data analytics to solve real-world problems in healthcare and beyond.</h3>
+# Noushin Ahmadvand
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noushin94&label=Profile%20views&color=0e75b6&style=flat" alt="noushin94" /> </p>
+![Header Image](https://github.com/noushin94/-Noushin-noushin94/raw/708ce1dffbe654b5202cb46c80b19acccaebe958/header.jpg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noushin94" alt="noushin94" /></a> </p>
+Hello! I'm Noushin, a Data Scientist specializing in medical imaging, based in London, UK. With a Master's in Artificial Intelligence and a Bachelor's in Electrical Engineering, I am deeply passionate about leveraging advanced machine learning techniques and data analytics to solve real-world problems in healthcare and beyond.
 
-- 🔭 I’m currently working on **Extensive experience in developing solutions for image-based diagnostics with a focus on robustness and accuracy. - **Machine Learning Engineering:** Proficient in building and optimizing machine learning pipelines using Python, PyTorch, and TensorFlow.**
+## 📊 Expertise
+- **Medical Imaging:** Extensive experience in developing solutions for image-based diagnostics with a focus on robustness and accuracy.
+- **Machine Learning Engineering:** Proficient in building and optimizing machine learning pipelines using Python, PyTorch, and TensorFlow.
+- **Data Analytics:** Skilled in analyzing large datasets, implementing statistical analysis, and data-driven decision making using tools like SQL, Pandas, and Tableau.
+- **Image Processing:** Advanced knowledge in image processing techniques and implementing models like YOLO (v4-9), DETR, and more for object detection and segmentation.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/noushin-ahmadvand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/noushin-ahmadvand" height="30" width="40" /></a>
-</p>
+## 🛠 Technical Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- **Languages:** Python, MATLAB, SQL
+- **Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Tools & Platforms:** AWS, GCP, Docker, Git, Jupyter
+- **Data Analysis & Visualization:** Tableau, Power BI, NLTK, spaCy, Beautiful Soup
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noushin94&show_icons=true&locale=en&layout=compact" alt="noushin94" /></p>
+## 💼 Professional Experience
+### Research Assistant at University of West London (Feb 2023 - Present)
+- Developed SQL pipelines for big data analysis, improving processing speeds by 60%.
+- Applied advanced ML algorithms for research on biomechanics signal features.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noushin94&show_icons=true&locale=en" alt="noushin94" /></p>
+### Teaching Assistant at Imam Khomeini International University (Jan - Jun 2017)
+- Conducted hands-on tutorials on filter design and classical image processing.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noushin94&" alt="noushin94" /></p>
+## 🎓 Education
+- **MSc Artificial Intelligence,** University of West London (2023 - Present)
+- **Bachelor of Electrical-Telecommunications Engineering,** Imam Khomeini International University (2012 - 2018)
 
-<h1 align="center">Hi 👋, I'm Noushin Ahmadvand</h1>
-<h3 align="center">A Data Scientist specializing in medical imaging, based in London, UK. With a Master's in Artificial Intelligence and a Bachelor's in Electrical Engineering, I am deeply passionate about leveraging advanced machine learning techniques and data analytics to solve real-world problems in healthcare and beyond.</h3>
+## 📚 Projects
+- [Polyp Detection using DETR](https://github.com/noushin94/DETR_-polypdetection_hugging_face_public)
+- [Smile Detection](https://github.com/noushin94/smile_detection)
+- [COVID-19 Patient Analysis](https://github.com/noushin94/Machine-Learning-Covid19)
+- [Automated Resume Classification and Parsing](https://github.com/noushin94/NLP)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noushin94&label=Profile%20views&color=0e75b6&style=flat" alt="noushin94" /> </p>
+## 🌍 Languages
+- **English:** Advanced
+- **Persian:** Native
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noushin94" alt="noushin94" /></a> </p>
+## 📬 Get in Touch
+- **LinkedIn:** [noushin-ahmadvand](https://www.linkedin.com/in/noushin-ahmadvand)
+- **GitHub:** [noushin94](https://github.com/noushin94)
 
-- 🔭 Expertise **Medical Imaging: Extensive experience in developing solutions for image-based diagnostics with a focus on robustness and accuracy. -Machine Learning Engineering: Proficient in building and optimizing machine learning pipelines using Python, PyTorch, and TensorFlow. - Data Analytics: Skilled in analyzing large datasets, implementing statistical analysis, and data-driven decision making using tools like SQL, Pandas, and Tableau. - Image Processing: Advanced knowledge in image processing techniques and implementing models like YOLO (v4-9), DETR, and more for object detection and segmentation.**
+Feel free to reach out for collaborations or just a chat about data science and AI innovations!
 
-- 👯 collaboration **Polyp Detection with Deep Learning models**
-
-- 🤝 Professional Experience **Research Assistant at University of West London (Feb 2023 - Present) - Developed SQL pipelines for big data analysis, improving processing speeds by 60%. - Applied advanced ML algorithms for research on biomechanics signal features.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/noushin-ahmadvand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/noushin-ahmadvand" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noushin94&show_icons=true&locale=en&layout=compact" alt="noushin94" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noushin94&show_icons=true&locale=en" alt="noushin94" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noushin94&" alt="noushin94" /></p>
-
+---
+© 2024 Noushin Ahmadvand. All Rights Reserved.
