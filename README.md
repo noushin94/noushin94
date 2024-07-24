@@ -22,7 +22,7 @@ Hello! I'm Noushin, a Data Scientist specializing in medical imaging, based in L
 - **Data Analysis & Visualization:** Tableau, Power BI, NLTK, spaCy, Beautiful Soup
 
 ## 💼 Professional Experience
-### Research Assistant at University of West London (Feb 2023 - Present)
+### Research Assistant at University of West London (Feb 2024 - July 2024)
 - Developed SQL pipelines for big data analysis, improving processing speeds by 60%.
 - Applied advanced ML algorithms for research on biomechanics signal features.
 
@@ -30,8 +30,8 @@ Hello! I'm Noushin, a Data Scientist specializing in medical imaging, based in L
 - Conducted hands-on tutorials on filter design and classical image processing.
 
 ## 🎓 Education
-- **MSc Artificial Intelligence,** University of West London (2023 - Present)
-- **Bachelor of Electrical-Telecommunications Engineering,** Imam Khomeini International University (2012 - 2018)
+- **MSc Artificial Intelligence,** University of West London (2023 - 2024)
+- **Bachelor of Electrical-Telecommunications Engineering,** IKIU University 
 
 ## 📚 Projects
 - [Polyp Detection using DETR](https://github.com/noushin94/DETR_-polypdetection_hugging_face_public)
