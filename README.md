@@ -35,7 +35,7 @@ Hello! I'm Noushin, a Data Scientist specializing in medical imaging, based in L
 
 ## 📚 Projects
 - [Polyp Detection using DETR](https://github.com/noushin94/DETR_-polypdetection_hugging_face_public)
-- [ Polyp Detection Using YOLOv9 and Augmentation] ()
+- [Polyp Detection Using YOLOv9 and Augmentation](https://github.com/noushin94/-Polyp-Detection-Using-YOLOv9-and-Augmentation)
 - [Smile Detection](https://github.com/noushin94/smile_detection)
 - [COVID-19 Patient Analysis](https://github.com/noushin94/Machine-Learning-Covid19)
 - [Automated Resume Classification and Parsing](https://github.com/noushin94/NLP)
