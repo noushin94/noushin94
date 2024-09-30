@@ -1,7 +1,7 @@
 # Noushin Ahmadvand
 
 
-Hello! I'm Noushin, a Data Scientist specializing in medical imaging, based in London, UK. With a Master's in Artificial Intelligence and a Bachelor's in Electrical Engineering, I am deeply passionate about leveraging advanced machine learning techniques and data analytics to solve real-world problems in healthcare and beyond.
+Hello! I'm Noushin, a Data Scientist, based in London, UK. With a Master's in Artificial Intelligence and a Bachelor's in Electrical Engineering, I am deeply passionate about leveraging advanced machine learning techniques and data analytics to solve real-world problems in healthcare and beyond.
 
 ## 📊 Expertise
 - **Medical Imaging:** Extensive experience in developing solutions for image-based diagnostics with a focus on robustness and accuracy.
