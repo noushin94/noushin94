@@ -56,7 +56,7 @@ I have an extensive background in **Mathematics** and a deep passion for **Image
 ## 📚 Projects
 
 - **Automated Resume Classification and Parsing**: Developed a module-oriented application with unit testing and CI/CD, leveraging NLP techniques to automate resume screening processes.
-  - [GitHub Repository](https://github.com/noushin94/resume_parser_classifie)
+  - [GitHub Repository](https://github.com/noushin94/resume_parser_classifier)
 - **VoiceAssistPro**: Created a voice-controlled assistant to aid individuals with physical impairments, integrating speech recognition and natural language understanding.
   - [GitHub Repository](https://github.com/noushin94/VoiceAssistPro)
 - **PharmaTrialAnalyzer**: Designed a data analytics platform to analyze and visualize pharmaceutical trial data, facilitating data-driven decision-making.
