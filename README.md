@@ -32,7 +32,7 @@ I have an extensive background in **Mathematics** and a deep passion for **Image
 
 ## 💼 Professional Experience
 
-### Research Assistant at University of West London *(Feb 2024 - July 2024)*
+### Data scientist at University of West London *(Feb 2024 - July 2024)*
 
 - Developed SQL pipelines for big data analysis, improving processing speeds by 60%.
 - Applied advanced ML algorithms for research on biomechanical signal features.
