@@ -82,6 +82,3 @@ I have an extensive background in **Mathematics** and a deep passion for **Image
 
 ---
 
-Feel free to reach out for collaborations or just a chat about data science, AI innovations, and how technology can improve healthcare!
-
-😊 **Happy Coding!**
